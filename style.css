@@ -25,6 +25,7 @@ h2 { font-size: 22px; margin: 36px 0 8px; }
 p.lede { font-size: 20px; color: var(--muted); }
 a { color: var(--green); }
 .hero-number { font: 700 64px/1 ui-rounded, -apple-system, sans-serif; color: var(--green); margin: 32px 0 4px; }
+img.hero { display: block; width: 100%; height: auto; border-radius: 22px; margin: 8px 0 8px; }
 .card { background: var(--wash); border-radius: 18px; padding: 20px 22px; margin: 20px 0; }
 .card ul { margin: 8px 0 0; padding-left: 20px; }
 .cta { display: inline-block; margin-top: 24px; padding: 14px 22px; border-radius: 14px; background: var(--green); color: #fff; font-weight: 700; text-decoration: none; }
